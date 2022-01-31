@@ -601,7 +601,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 1%;
   height: auto;
 }
 
@@ -7367,7 +7367,7 @@ textarea.form-control-lg {
 }
 
 .mb-2 {
-  margin-bottom: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
 }
 
 .mb-3 {
@@ -11362,9 +11362,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 3rem;
+    max-height: 3rem;
+    border: 0.25rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
